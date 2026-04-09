@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Ambition Plumbing & Drain Services",
+    "phone": "+12102093510",
+    "category": "plumbing company",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "San Antonio's Plumbing Authority",
+      "heroSubline": "Ambition Plumbing: Expert solutions for homes and businesses. Licensed, insured, and ready to tackle any challenge, big or small.",
+      "aboutTitle": "Decades of Plumbing Expertise",
+      "aboutText": [
+        "Ambition Plumbing & Drain Services isn't just another plumbing company; we're a team of dedicated professionals with deep roots in the San Antonio community. Founded over a decade ago, we've built our reputation on honest work, transparent pricing, and a relentless commitment to customer satisfaction. We understand the unique plumbing challenges posed by San Antonio's diverse housing stock, from historic downtown buildings to modern suburban developments.",
+        "Our approach is simple: diagnose the problem accurately, explain the solution clearly, and execute the work flawlessly. We use only the highest quality materials and the latest techniques to ensure lasting results. We value integrity above all else, and we stand behind every job we do.",
+        "We're proud to be a part of the San Antonio community, and we're committed to giving back. We regularly participate in local charity events and support organizations that make a difference in the lives of our neighbors. When you choose Ambition Plumbing, you're choosing a company that cares."
+      ],
+      "valueProps": [
+        {
+          "title": "24/7 Emergency Service",
+          "description": "Plumbing emergencies don't wait, and neither do we. Call us anytime, day or night, for fast, reliable service."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No surprises, ever. We provide clear, detailed estimates before we begin any work."
+        },
+        {
+          "title": "Experienced Technicians",
+          "description": "Our team is comprised of highly trained and licensed plumbers with years of experience solving complex plumbing problems."
+        },
+        {
+          "title": "Guaranteed Work",
+          "description": "We stand behind our work with a comprehensive guarantee. Your satisfaction is our top priority."
+        }
+      ],
+      "ctaHeadline": "Solve Your Plumbing Problems Today",
+      "ctaSubline": "Get a free estimate and experience the Ambition Plumbing difference. Call now!"
+    },
+    "services": [
+      {
+        "slug": "drain-cleaning",
+        "name": "Drain Cleaning",
+        "shortDescription": "Fast, effective drain cleaning services for San Antonio homes and businesses.",
+        "description": "Clogged drains can be more than just an inconvenience; they can lead to serious plumbing problems if left unaddressed. At Ambition Plumbing, we utilize advanced drain cleaning techniques to clear even the toughest blockages. From simple clogs caused by hair and soap scum to more complex issues like tree root intrusion, we have the tools and expertise to get your drains flowing freely again.\n\nWe offer a variety of drain cleaning services, including snaking, hydro jetting, and video camera inspection. Snaking is a traditional method that uses a flexible auger to break up or remove clogs. Hydro jetting uses high-pressure water to blast away buildup and debris from the inside of your pipes. Video camera inspection allows us to pinpoint the exact location and cause of the blockage, ensuring that we can provide the most effective solution.\n\nOur technicians are experienced in clearing all types of drains, including kitchen sinks, bathroom sinks, showers, tubs, and main sewer lines. We understand the unique challenges posed by San Antonio's older plumbing systems, and we're equipped to handle any situation. Don't let clogged drains disrupt your life – call Ambition Plumbing today for fast, reliable service.",
+        "process": [
+          "Step 1: Diagnostic Assessment – We identify the location and severity of the clog.",
+          "Step 2: Drain Cleaning Method Selection – We choose the most effective method based on the clog's nature.",
+          "Step 3: Clog Removal – We utilize snaking, hydro jetting, or other techniques to clear the blockage.",
+          "Step 4: Verification and Prevention – We ensure the drain is flowing freely and offer tips to prevent future clogs."
+        ],
+        "benefits": [
+          "Eliminate foul odors",
+          "Prevent costly water damage",
+          "Improve drainage efficiency",
+          "Extend the lifespan of your plumbing system"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my drains cleaned?",
+            "answer": "We recommend having your drains cleaned at least once a year, or more frequently if you experience frequent clogs. Regular drain cleaning can prevent buildup and keep your plumbing system running smoothly."
+          },
+          {
+            "question": "What causes clogged drains?",
+            "answer": "Clogged drains can be caused by a variety of factors, including hair, soap scum, grease, food particles, and tree roots. Older pipes are also more prone to clogs due to corrosion and buildup."
+          },
+          {
+            "question": "Is hydro jetting safe for my pipes?",
+            "answer": "Hydro jetting is a safe and effective drain cleaning method when performed by a trained professional. Our technicians are experienced in using hydro jetting equipment safely and effectively, without damaging your pipes."
+          }
+        ]
+      },
+      {
+        "slug": "water-heater-repair",
+        "name": "Water Heater Repair & Installation",
+        "shortDescription": "Expert water heater services in San Antonio, including repair, replacement, and installation.",
+        "description": "A malfunctioning water heater can disrupt your daily routine and leave you with cold showers. Ambition Plumbing offers comprehensive water heater services to keep your hot water flowing. Whether you need a simple repair, a complete replacement, or a new installation, our experienced technicians can handle the job.\n\nWe work with all types of water heaters, including traditional tank water heaters, tankless water heaters, and heat pump water heaters. We can diagnose and repair common water heater problems such as leaks, faulty thermostats, and sediment buildup. If your water heater is beyond repair, we can help you choose a new, energy-efficient model that meets your needs and budget.\n\nWe understand the importance of having a reliable source of hot water, and we're committed to providing fast, efficient service. We offer 24/7 emergency water heater repair, so you can rest assured that we'll be there when you need us most. We also offer preventative maintenance services to help extend the lifespan of your water heater and prevent costly repairs down the road.\n\nConsidering the hard water in San Antonio, we also offer water softener installation to help protect your water heater and plumbing system from scale buildup.",
+        "process": [
+          "Step 1: Assessment – We diagnose the issue with your current water heater or assess your needs for a new installation.",
+          "Step 2: Solution Recommendation – We provide a clear explanation of the problem and recommend the best solution for your situation.",
+          "Step 3: Repair or Installation – We perform the necessary repairs or install your new water heater with precision and care.",
+          "Step 4: Testing and Verification – We test the water heater to ensure it’s functioning properly and answer any questions you may have."
+        ],
+        "benefits": [
+          "Restore hot water quickly",
+          "Improve energy efficiency",
+          "Extend the lifespan of your water heater",
+          "Reduce water heating costs"
+        ],
+        "faq": [
+          {
+            "question": "How long does a water heater typically last?",
+            "answer": "A traditional tank water heater typically lasts 8-12 years, while a tankless water heater can last 20 years or more. Regular maintenance can help extend the lifespan of your water heater."
+          },
+          {
+            "question": "What are the signs that my water heater needs to be replaced?",
+            "answer": "Signs that your water heater needs to be replaced include rusty water, strange noises, leaks, and inconsistent water temperature. If you notice any of these signs, it's time to call Ambition Plumbing."
+          },
+          {
+            "question": "What are the benefits of a tankless water heater?",
+            "answer": "Tankless water heaters provide on-demand hot water, which means you'll never run out of hot water. They're also more energy-efficient than traditional tank water heaters, which can save you money on your energy bills."
+          }
+        ]
+      },
+      {
+        "slug": "leak-detection",
+        "name": "Leak Detection & Repair",
+        "shortDescription": "Accurate leak detection and expert repair services to protect your San Antonio property.",
+        "description": "Hidden leaks can cause significant damage to your home or business, leading to water waste, mold growth, and structural problems. Ambition Plumbing utilizes advanced leak detection technology to pinpoint the source of leaks quickly and accurately, minimizing damage and saving you money.\n\nWe use a variety of leak detection methods, including acoustic listening devices, infrared cameras, and pressure testing. Our experienced technicians can detect leaks in walls, floors, ceilings, and underground pipes. Once we've located the leak, we'll provide you with a detailed explanation of the problem and recommend the best repair solution.\n\nWe offer a full range of leak repair services, from simple pipe patching to complete pipe replacement. We use only the highest quality materials and the latest techniques to ensure lasting repairs. We also offer preventative maintenance services to help prevent future leaks and protect your property.\n\nGiven the limestone soil in San Antonio, foundation leaks are a particular concern. We have specialized expertise in detecting and repairing these types of leaks.",
+        "process": [
+          "Step 1: Advanced Leak Detection – We use specialized equipment to locate hidden leaks.",
+          "Step 2: Accurate Diagnosis – We identify the source and extent of the leak.",
+          "Step 3: Repair Solution – We provide a clear explanation of the problem and recommend the best repair approach.",
+          "Step 4: Professional Repair – We execute the repair with precision and ensure it resolves the issue completely."
+        ],
+        "benefits": [
+          "Prevent water damage",
+          "Reduce water bills",
+          "Eliminate mold growth",
+          "Protect your property's foundation"
+        ],
+        "faq": [
+          {
+            "question": "How can I tell if I have a hidden leak?",
+            "answer": "Signs of a hidden leak include a sudden increase in your water bill, water stains on walls or ceilings, musty odors, and damp spots on your property. If you notice any of these signs, it's important to call Ambition Plumbing immediately."
+          },
+          {
+            "question": "What equipment do you use to detect leaks?",
+            "answer": "We use a variety of leak detection equipment, including acoustic listening devices, infrared cameras, and pressure testing equipment. These tools allow us to pinpoint the source of leaks quickly and accurately."
+          },
+          {
+            "question": "How much does leak detection cost?",
+            "answer": "The cost of leak detection varies depending on the complexity of the job. We offer free estimates, so call us today to schedule an appointment."
+          }
+        ]
+      },
+      {
+        "slug": "sewer-line-services",
+        "name": "Sewer Line Services",
+        "shortDescription": "Comprehensive sewer line repair, replacement, and inspection for San Antonio properties.",
+        "description": "A damaged sewer line can cause unsanitary conditions, unpleasant odors, and costly property damage. Ambition Plumbing offers comprehensive sewer line services to keep your sewer system functioning properly. Whether you need a simple repair, a complete replacement, or a routine inspection, our experienced technicians can handle the job.\n\nWe use a variety of sewer line repair and replacement methods, including traditional trenching and trenchless technology. Trenchless technology allows us to repair or replace your sewer line without digging up your yard, minimizing disruption and saving you time and money. We also offer video camera inspection to diagnose sewer line problems and identify potential issues before they become major problems.\n\nWe understand the importance of having a functioning sewer system, and we're committed to providing fast, efficient service. We offer 24/7 emergency sewer line repair, so you can rest assured that we'll be there when you need us most. We also offer preventative maintenance services to help extend the lifespan of your sewer line and prevent costly repairs down the road.\n\nWe're familiar with the common sewer line issues in San Antonio, including tree root intrusion and pipe corrosion.",
+        "process": [
+          "Step 1: Sewer Line Inspection – We use video camera inspection to assess the condition of your sewer line.",
+          "Step 2: Problem Diagnosis – We identify the cause and extent of the sewer line damage.",
+          "Step 3: Repair or Replacement – We recommend the most effective repair or replacement method.",
+          "Step 4: Quality Assurance – We ensure the sewer line is functioning properly and meets all safety standards."
+        ],
+        "benefits": [
+          "Prevent sewage backups",
+          "Eliminate foul odors",
+          "Protect your property from contamination",
+          "Ensure proper waste disposal"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of a sewer line problem?",
+            "answer": "Signs of a sewer line problem include sewage backups, slow-draining drains, gurgling sounds in your plumbing, and foul odors. If you notice any of these signs, it's important to call Ambition Plumbing immediately."
+          },
+          {
+            "question": "What is trenchless sewer line repair?",
+            "answer": "Trenchless sewer line repair is a method of repairing or replacing your sewer line without digging up your yard. This method is less disruptive and more cost-effective than traditional trenching."
+          },
+          {
+            "question": "How much does sewer line repair or replacement cost?",
+            "answer": "The cost of sewer line repair or replacement varies depending on the extent of the damage and the method used. We offer free estimates, so call us today to schedule an appointment."
+          }
+        ]
+      },
+      {
+        "slug": "fixture-installation",
+        "name": "Fixture Installation & Repair",
+        "shortDescription": "Professional installation and repair of faucets, sinks, toilets, showers, and more in San Antonio.",
+        "description": "Upgrading your fixtures can improve the look and functionality of your kitchen and bathrooms. Ambition Plumbing offers professional fixture installation and repair services to help you create the space of your dreams. Whether you're replacing a leaky faucet, installing a new toilet, or renovating your entire bathroom, our experienced technicians can handle the job.\n\nWe work with all types of fixtures, including faucets, sinks, toilets, showers, bathtubs, and garbage disposals. We can help you choose the right fixtures for your needs and budget and ensure that they are installed correctly and efficiently. We also offer repair services for existing fixtures, including fixing leaks, replacing worn parts, and unclogging drains.\n\nWe understand the importance of having functional and aesthetically pleasing fixtures, and we're committed to providing high-quality workmanship and exceptional customer service. We offer upfront pricing and a satisfaction guarantee, so you can rest assured that you're making the right choice when you choose Ambition Plumbing.\n\nWe're familiar with the styles and brands popular in San Antonio homes, and we can help you find the perfect fixtures to match your décor.",
+        "process": [
+          "Step 1: Fixture Selection – We assist you in selecting the right fixtures for your needs and budget.",
+          "Step 2: Professional Installation – We install your new fixtures with precision and care.",
+          "Step 3: Thorough Testing – We test the fixtures to ensure they are functioning properly.",
+          "Step 4: Cleanup and Explanation – We clean up the work area and explain the functionality of the new fixtures."
+        ],
+        "benefits": [
+          "Enhance the look of your home",
+          "Improve water efficiency",
+          "Increase property value",
+          "Prevent leaks and water damage"
+        ],
+        "faq": [
+          {
+            "question": "What types of fixtures do you install?",
+            "answer": "We install all types of fixtures, including faucets, sinks, toilets, showers, bathtubs, and garbage disposals. We can also install specialty fixtures such as bidets and water filters."
+          },
+          {
+            "question": "How long does it take to install a new toilet?",
+            "answer": "The time it takes to install a new toilet varies depending on the complexity of the job, but it typically takes between 1 and 3 hours."
+          },
+          {
+            "question": "Do you offer a warranty on your fixture installations?",
+            "answer": "Yes, we offer a warranty on all of our fixture installations. We stand behind our workmanship and are committed to your satisfaction."
+          }
+        ]
+      },
+      {
+        "slug": "gas-line-services",
+        "name": "Gas Line Services",
+        "shortDescription": "Safe and reliable gas line installation, repair, and inspection for San Antonio residents.",
+        "description": "Ambition Plumbing provides expert gas line services, ensuring the safety and efficiency of your gas systems. We handle everything from new gas line installations for appliances like stoves and water heaters to repairs and inspections of existing gas lines. Our licensed and experienced technicians adhere to the strictest safety standards and regulations to protect your home and family.\n\nWe understand the potential dangers associated with gas lines and take every precaution to ensure that our work is done correctly and safely. We use state-of-the-art equipment to detect gas leaks and perform thorough inspections. If you suspect a gas leak, it's crucial to evacuate the premises immediately and call us. We offer 24/7 emergency gas line services to address any urgent situations.\n\nWhether you're adding a new gas appliance or need to repair a damaged gas line, you can trust Ambition Plumbing to provide reliable and professional service. We prioritize safety and customer satisfaction above all else.",
+        "process": [
+          "Step 1: Detailed Inspection – We thoroughly inspect your gas lines for leaks or damage.",
+          "Step 2: Precise Leak Detection – We use advanced equipment to pinpoint the exact location of any gas leaks.",
+          "Step 3: Safe Repair or Installation – We perform repairs or new installations according to strict safety standards.",
+          "Step 4: Pressure Testing and Verification – We pressure test the gas lines to ensure they are leak-free and functioning properly."
+        ],
+        "benefits": [
+          "Ensure the safety of your home and family",
+          "Prevent gas leaks and explosions",
+          "Maintain efficient gas appliance operation",
+          "Comply with safety regulations"
+        ],
+        "faq": [
+          {
+            "question": "What should I do if I smell gas?",
+            "answer": "If you smell gas, evacuate the premises immediately and call Ambition Plumbing or your local gas company from a safe location. Do not use any electrical devices or open flames."
+          },
+          {
+            "question": "How often should I have my gas lines inspected?",
+            "answer": "We recommend having your gas lines inspected at least once a year to ensure they are in good condition and free of leaks."
+          },
+          {
+            "question": "Can I install a gas line myself?",
+            "answer": "No, it is extremely dangerous and illegal to install a gas line yourself. Gas line work should only be performed by a licensed and experienced professional."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "New Braunfels",
+        "slug": "new-braunfels-tx",
+        "state": "TX",
+        "content": "Ambition Plumbing & Drain Services is proud to offer comprehensive plumbing services to the residents and businesses of New Braunfels, Texas. Known for its beautiful hill country stone homes and vibrant community, New Braunfels presents unique plumbing challenges and opportunities. Our experienced technicians are equipped to handle everything from routine maintenance to complex repairs, ensuring your plumbing systems function flawlessly. We understand the importance of reliable plumbing in this thriving city and are committed to providing prompt, professional, and affordable solutions.\n\nNew Braunfels experiences hot summers, which can put a strain on plumbing systems. We specialize in water heater services, leak detection, and drain cleaning to keep your home or business running smoothly year-round. Whether you're dealing with a leaky faucet, a clogged drain, or need a complete plumbing system overhaul, Ambition Plumbing & Drain Services is here to help. We prioritize customer satisfaction and strive to exceed your expectations with every service call.",
+        "localContext": "New Braunfels, with a population of approximately 98,000, boasts stunning hill country stone homes and experiences hot summers, requiring robust plumbing systems.",
+        "nearbyAreas": [
+          "San Marcos",
+          "Cibolo",
+          "Schertz"
+        ]
+      },
+      {
+        "city": "Boerne",
+        "slug": "boerne-tx",
+        "state": "TX",
+        "content": "Ambition Plumbing & Drain Services provides exceptional plumbing services to the residents and businesses of Boerne, Texas. Known for its beautiful hill country custom homes and charming small-town atmosphere, Boerne demands quality and reliability in all aspects of home maintenance. Our skilled plumbers are adept at handling the unique plumbing needs of custom homes, ensuring that your plumbing systems are both functional and aesthetically pleasing. We are committed to delivering top-notch service with a focus on customer satisfaction.\n\nBoerne's hot summers can take a toll on plumbing systems, making regular maintenance crucial. We offer a wide range of services, including water heater repair and replacement, drain cleaning, and leak detection. Whether you're building a new custom home or need assistance with an existing plumbing issue, Ambition Plumbing & Drain Services is your trusted partner in Boerne. We provide prompt, professional, and affordable solutions tailored to your specific needs.",
+        "localContext": "Boerne, a city of approximately 20,000 residents, features stunning hill country custom homes and experiences hot summers, necessitating expert plumbing care.",
+        "nearbyAreas": [
+          "Fair Oaks Ranch",
+          "Leon Springs",
+          "Comfort"
+        ]
+      },
+      {
+        "city": "Schertz",
+        "slug": "schertz-tx",
+        "state": "TX",
+        "content": "Ambition Plumbing & Drain Services is dedicated to serving the plumbing needs of the residents and businesses of Schertz, Texas. With a significant military family population due to its proximity to Randolph Air Force Base, Schertz requires dependable and efficient plumbing services. We understand the unique needs of military families and are committed to providing prompt, reliable solutions to ensure your plumbing systems are functioning optimally. Our experienced technicians are equipped to handle all types of plumbing issues, from routine maintenance to emergency repairs.\n\nSchertz experiences hot summers, which can lead to increased water usage and potential plumbing problems. We specialize in water conservation solutions, leak detection, and drain cleaning to help you save money and protect your home. Whether you're dealing with a leaky faucet, a clogged drain, or need a complete plumbing system inspection, Ambition Plumbing & Drain Services is here to help. We prioritize customer satisfaction and strive to exceed your expectations with every service call.",
+        "localContext": "Schertz, home to around 42,000 residents, features a large military family population near Randolph AFB and experiences hot summers, demanding reliable plumbing services.",
+        "nearbyAreas": [
+          "Cibolo",
+          "Universal City",
+          "Live Oak"
+        ]
+      },
+      {
+        "city": "San Antonio",
+        "slug": "san-antonio-tx",
+        "state": "TX",
+        "content": "As a cornerstone of the San Antonio community, Ambition Plumbing & Drain Services is dedicated to providing exceptional plumbing solutions to this vibrant city. From the historic River Walk to the bustling downtown area, San Antonio's diverse landscape presents a wide range of plumbing needs. Our experienced team is equipped to handle everything from residential repairs in historic homes to commercial installations in modern office buildings. We pride ourselves on delivering reliable, efficient, and affordable plumbing services throughout San Antonio.\n\nSan Antonio's hot climate and unique architectural styles require specialized plumbing expertise. We offer a comprehensive range of services, including leak detection, drain cleaning, water heater repair, and sewer line replacement. Whether you own a historic home, a modern business, or anything in between, Ambition Plumbing & Drain Services is your trusted partner for all your plumbing needs. We are committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "San Antonio, a large and diverse city, boasts a rich history and a hot climate, requiring versatile plumbing solutions.",
+        "nearbyAreas": [
+          "Leon Valley",
+          "Alamo Heights",
+          "Terrell Hills"
+        ]
+      },
+      {
+        "city": "Cibolo",
+        "slug": "cibolo-tx",
+        "state": "TX",
+        "content": "Ambition Plumbing & Drain Services is proud to serve the growing community of Cibolo, Texas, offering top-quality plumbing services to homeowners and businesses alike. As a rapidly developing city, Cibolo presents a mix of new construction and established neighborhoods, each with its unique plumbing requirements. Our skilled technicians are well-versed in handling a variety of plumbing systems, from modern installations to older, more traditional setups. We are committed to providing prompt, reliable, and affordable solutions to meet the diverse needs of Cibolo residents.\n\nCibolo's hot Texas summers can place significant stress on plumbing systems, making regular maintenance crucial. We specialize in water heater services, leak detection, and drain cleaning to keep your home or business running smoothly. Whether you're dealing with a minor plumbing issue or require a major repair, Ambition Plumbing & Drain Services is here to help. We prioritize customer satisfaction and strive to exceed your expectations with every service call.",
+        "localContext": "Cibolo, a rapidly growing city, experiences hot summers and features a mix of new and established homes, requiring comprehensive plumbing services.",
+        "nearbyAreas": [
+          "Schertz",
+          "Selma",
+          "Universal City"
+        ]
+      },
+      {
+        "city": "Universal City",
+        "slug": "universal-city-tx",
+        "state": "TX",
+        "content": "Ambition Plumbing & Drain Services is dedicated to providing exceptional plumbing services to the residents and businesses of Universal City, Texas. Located near Randolph Air Force Base, Universal City has a strong military presence and a diverse community. We understand the unique needs of military families and are committed to providing prompt, reliable solutions to ensure your plumbing systems are functioning optimally. Our experienced technicians are equipped to handle all types of plumbing issues, from routine maintenance to emergency repairs.\n\nUniversal City's hot summers can lead to increased water usage and potential plumbing problems. We specialize in water conservation solutions, leak detection, and drain cleaning to help you save money and protect your home. Whether you're dealing with a leaky faucet, a clogged drain, or need a complete plumbing system inspection, Ambition Plumbing & Drain Services is here to help. We prioritize customer satisfaction and strive to exceed your expectations with every service call.",
+        "localContext": "Universal City, located near Randolph AFB, features a strong military presence and experiences hot summers, demanding reliable plumbing services.",
+        "nearbyAreas": [
+          "Live Oak",
+          "Schertz",
+          "Converse"
+        ]
+      },
+      {
+        "city": "Live Oak",
+        "slug": "live-oak-tx",
+        "state": "TX",
+        "content": "Ambition Plumbing & Drain Services is proud to offer comprehensive plumbing services to the residents and businesses of Live Oak, Texas. With its family-friendly atmosphere and convenient location, Live Oak is a thriving community with unique plumbing needs. Our experienced technicians are equipped to handle everything from routine maintenance to complex repairs, ensuring your plumbing systems function flawlessly. We understand the importance of reliable plumbing in this vibrant city and are committed to providing prompt, professional, and affordable solutions.\n\nLive Oak experiences hot summers, which can put a strain on plumbing systems. We specialize in water heater services, leak detection, and drain cleaning to keep your home or business running smoothly year-round. Whether you're dealing with a leaky faucet, a clogged drain, or need a complete plumbing system overhaul, Ambition Plumbing & Drain Services is here to help. We prioritize customer satisfaction and strive to exceed your expectations with every service call.",
+        "localContext": "Live Oak, a family-friendly community, experiences hot summers, requiring dependable plumbing services.",
+        "nearbyAreas": [
+          "Universal City",
+          "Converse",
+          "Schertz"
+        ]
+      },
+      {
+        "city": "Leon Springs",
+        "slug": "leon-springs-tx",
+        "state": "TX",
+        "content": "Ambition Plumbing & Drain Services is delighted to provide top-notch plumbing services to the residents and businesses of Leon Springs, Texas. Known for its rich history, unique architecture, and blend of old and new, Leon Springs requires a plumbing company that understands its specific needs. Our skilled plumbers are adept at working on a variety of plumbing systems, from historic homes to modern commercial buildings. We are dedicated to offering reliable, efficient, and affordable plumbing solutions to ensure the smooth operation of your plumbing systems.\n\nLeon Springs experiences hot Texas summers, making regular plumbing maintenance essential. We provide a comprehensive range of services, including leak detection, drain cleaning, water heater repair, and sewer line maintenance. Whether you own a historic home or a modern business, Ambition Plumbing & Drain Services is your trusted partner for all plumbing needs. We prioritize customer satisfaction and strive to exceed your expectations with every service call.",
+        "localContext": "Leon Springs, known for its history and architecture, experiences hot summers, requiring customized plumbing solutions.",
+        "nearbyAreas": [
+          "San Antonio",
+          "Fair Oaks Ranch",
+          "Boerne"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Water Heater Replacement",
+        "text": "Our water heater died on a Sunday morning, and Ambition Plumbing was at our house within an hour! The technician, David, was professional, courteous, and explained everything clearly. They replaced the water heater quickly and efficiently. Highly recommend!",
+        "date": "2025-05-15"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 4,
+        "service": "Drain Cleaning",
+        "text": "I had a severely clogged kitchen sink that wouldn't drain no matter what I tried. Ambition Plumbing came out and used their hydro jetting service, and it cleared the clog right away. The price was reasonable, and the technician was very knowledgeable.",
+        "date": "2025-04-22"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Leak Detection",
+        "text": "We suspected we had a leak in our slab, and Ambition Plumbing was able to find it quickly using their advanced equipment. They repaired the leak with minimal disruption to our home. Very impressed with their expertise!",
+        "date": "2025-03-10"
+      },
+      {
+        "name": "Michael K.",
+        "rating": 5,
+        "service": "Sewer Line Repair",
+        "text": "Our sewer line backed up into our yard, and it was a complete mess. Ambition Plumbing was able to repair the line using trenchless technology, which saved us from having to tear up our entire yard. They were professional and efficient, and we're very grateful for their help.",
+        "date": "2025-02-01"
+      },
+      {
+        "name": "Ashley P.",
+        "rating": 4,
+        "service": "Fixture Installation",
+        "text": "Ambition Plumbing installed a new faucet and sink in our guest bathroom. They did a great job, and the new fixtures look fantastic. The installation was quick and clean. Will use them again!",
+        "date": "2025-01-18"
+      },
+      {
+        "name": "Brian T.",
+        "rating": 5,
+        "service": "Gas Line Repair",
+        "text": "I had a gas leak in my kitchen and Ambition Plumbing responded immediately. The technician found and repaired the leak quickly and made sure everything was safe. I really appreciate their fast and reliable service.",
+        "date": "2024-12-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "San Antonio Plumbing Services | Ambition Plumbing",
+        "description": "Trusted plumbing experts in San Antonio, TX. 24/7 emergency service, leak detection, drain cleaning & more. Call for a free estimate!"
+      },
+      "about": {
+        "title": "About Ambition Plumbing | San Antonio, TX",
+        "description": "Learn about Ambition Plumbing's commitment to quality plumbing services in San Antonio. Experienced, reliable, and customer-focused."
+      },
+      "services": {
+        "title": "Plumbing Services | San Antonio, TX | Ambition Plumbing",
+        "description": "Comprehensive plumbing solutions in San Antonio. Drain cleaning, water heaters, leak detection, sewer lines, and more. Call us today!"
+      },
+      "contact": {
+        "title": "Contact Ambition Plumbing | San Antonio, TX",
+        "description": "Contact Ambition Plumbing for fast, reliable plumbing service in San Antonio. Get a free estimate and schedule an appointment today."
+      },
+      "reviews": {
+        "title": "Ambition Plumbing Reviews | San Antonio, TX",
+        "description": "Read reviews from satisfied Ambition Plumbing customers in San Antonio. See why we're the trusted choice for plumbing services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Ambition Plumbing | San Antonio, TX",
+        "description": "Ambition Plumbing provides expert plumbing services in the San Antonio metro area. See our service area map and contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "drain-cleaning": "/images/service-drain-cleaning.webp",
+      "water-heater-repair": "/images/service-water-heater-repair.webp",
+      "leak-detection": "/images/service-leak-detection.webp",
+      "sewer-line-services": "/images/service-sewer-line-services.webp",
+      "fixture-installation": "/images/service-fixture-installation.webp",
+      "gas-line-services": "/images/service-gas-line-services.webp"
+    },
+    "servicesResponsive": {
+      "drain-cleaning": {
+        "src": "/images/service-drain-cleaning.webp",
+        "srcset": "/images/service-drain-cleaning-400w.webp 400w, /images/service-drain-cleaning-800w.webp 800w, /images/service-drain-cleaning-1200w.webp 1200w, /images/service-drain-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "water-heater-repair": {
+        "src": "/images/service-water-heater-repair.webp",
+        "srcset": "/images/service-water-heater-repair-400w.webp 400w, /images/service-water-heater-repair-800w.webp 800w, /images/service-water-heater-repair-1200w.webp 1200w, /images/service-water-heater-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "leak-detection": {
+        "src": "/images/service-leak-detection.webp",
+        "srcset": "/images/service-leak-detection-400w.webp 400w, /images/service-leak-detection-800w.webp 800w, /images/service-leak-detection-1200w.webp 1200w, /images/service-leak-detection.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "sewer-line-services": {
+        "src": "/images/service-sewer-line-services.webp",
+        "srcset": "/images/service-sewer-line-services-400w.webp 400w, /images/service-sewer-line-services-800w.webp 800w, /images/service-sewer-line-services-1200w.webp 1200w, /images/service-sewer-line-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fixture-installation": {
+        "src": "/images/service-fixture-installation.webp",
+        "srcset": "/images/service-fixture-installation-400w.webp 400w, /images/service-fixture-installation-800w.webp 800w, /images/service-fixture-installation-1200w.webp 1200w, /images/service-fixture-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gas-line-services": {
+        "src": "/images/service-gas-line-services.webp",
+        "srcset": "/images/service-gas-line-services-400w.webp 400w, /images/service-gas-line-services-800w.webp 800w, /images/service-gas-line-services-1200w.webp 1200w, /images/service-gas-line-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
